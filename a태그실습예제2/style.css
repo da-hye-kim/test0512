@@ -1,0 +1,19 @@
+/* #000 : black / #fff : white */
+
+/* body {
+  background-color: #000;
+} */
+
+/* .wrapper {
+  viewport height 는 반응형 할때 사용 
+  width: 100vh;
+  background-color: #000;
+  color: #fff;
+} */
+
+
+/* * 표시가 뜻하는 것은 모든 태그라는 뜻  */
+* {
+  margin: 0;
+}
+
